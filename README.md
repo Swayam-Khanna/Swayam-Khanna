@@ -2,20 +2,20 @@
 
 ### 🚀 B.Tech Student @ Chitkara University | Full-Stack Developer & DSA Enthusiast
 
-I am a dedicated developer focused on building high-performance web applications and mastering **Data Structures and Algorithms**. I specialize in modern JavaScript frameworks and am currently diving deep into **3D Web Graphics** and **Cloud Infrastructure**.
+I am a dedicated developer focused on building high-performance web applications and mastering **Data Structures and Algorithms**. I specialize in modern JavaScript frameworks and am currently diving deep into **3D Web Graphics** and **Scalable Cloud Infrastructure**.
 
 ---
 
 ### 🛠️ Currently Focused On
 - 🖥️ **CodeOlio**: Architecting a full-stack DSA platform featuring a custom code evaluation engine.
-- 🌐 **3D Web**: Experimenting with immersive UI using **Three.js** and **React Three Fiber**.
-- ✍️ **Technical Writing**: Contributing in-depth articles to **GeeksforGeeks** on CS fundamentals.
-- 📐 **System Design**: Implementing scalable architectures using **Microservices** and **Cloud** patterns.
+- 🌐 **3D Web & Immersive UI**: Building interactive experiences using **Three.js** and **React Three Fiber**.
+- ✍️ **Technical Writing**: Contributing in-depth articles to **GeeksforGeeks** to simplify complex CS concepts.
+- 📐 **Cloud & DevOps**: Implementing scalable architectures using **AWS**, **Docker**, and **Kubernetes**.
 
 ### 🏆 Coding Achievements
 - 💡 **LeetCode Specialist**: Achieved a **100-day consistency streak**; 100+ problems solved across platforms.
-- 🎓 **Leadership**: Served as **School Captain**, bringing strong communication and management to development teams.
-- ⭐ **Open Source**: Actively utilizing the GitHub Student Developer ecosystem for project deployments.
+- 🎓 **Leadership**: Served as **School Captain**, bringing strong communication and project management to development teams.
+- ⭐ **Open Source**: Actively utilizing the GitHub Student Developer ecosystem for advanced project deployments.
 
 ### 🧰 Tech Stack
 **Frontend & 3D Graphics:**
@@ -36,8 +36,9 @@ I am a dedicated developer focused on building high-performance web applications
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 **Languages:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
@@ -49,7 +50,7 @@ I am a dedicated developer focused on building high-performance web applications
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swayam-khanna/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khannaswayam/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 - 📍 **Location:** Solan, Himachal Pradesh
