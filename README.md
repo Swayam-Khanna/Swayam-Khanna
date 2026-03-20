@@ -1,38 +1,44 @@
 # Hi, I'm Swayam Khanna 👋 
 
-### 🚀 B.Tech Student @ Chitkara University | Aspiring Software Engineer
+### 🚀 B.Tech Student @ Chitkara University | Full-Stack Developer & DSA Enthusiast
 
-I am a dedicated developer focused on mastering **Data Structures and Algorithms** and building scalable web applications. I enjoy architecting solutions from scratch and documenting my learning journey through technical writing.
+I am a dedicated developer focused on building high-performance web applications and mastering **Data Structures and Algorithms**. I specialize in modern JavaScript frameworks and am currently diving deep into **3D Web Graphics** and **Cloud Infrastructure**.
 
 ---
 
 ### 🛠️ Currently Focused On
 - 🖥️ **CodeOlio**: Architecting a full-stack DSA platform featuring a custom code evaluation engine.
-- 🔗 **Web Ecosystems**: Building robust backend services using **Node.js** and **Express**.
-- ✍️ **Technical Writing**: Contributing in-depth articles to **GeeksforGeeks** to simplify complex CS concepts.
-- 📐 **System Design**: Studying High-Level and Low-Level design patterns for scalable systems.
+- 🌐 **3D Web**: Experimenting with immersive UI using **Three.js** and **React Three Fiber**.
+- ✍️ **Technical Writing**: Contributing in-depth articles to **GeeksforGeeks** on CS fundamentals.
+- 📐 **System Design**: Implementing scalable architectures using **Microservices** and **Cloud** patterns.
 
 ### 🏆 Coding Achievements
 - 💡 **LeetCode Specialist**: Achieved a **100-day consistency streak**; 100+ problems solved across platforms.
-- 🎓 **Leadership**: Served as **School Captain**, bringing strong communication and team management to dev projects.
-- ⭐ **Open Source**: Actively maintaining projects and exploring the GitHub Student Developer ecosystem.
+- 🎓 **Leadership**: Served as **School Captain**, bringing strong communication and management to development teams.
+- ⭐ **Open Source**: Actively utilizing the GitHub Student Developer ecosystem for project deployments.
 
 ### 🧰 Tech Stack
-**Languages & Fundamentals:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Data Structures](https://img.shields.io/badge/DSA-Pill-blue?style=for-the-badge&logo=algorithms)
+**Frontend & 3D Graphics:**
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/R3F-black?style=for-the-badge&logo=react&logoColor=white)
 
-**Web Development:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Backend & Databases:**
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+**Cloud & DevOps:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Languages:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
@@ -43,6 +49,9 @@ I am a dedicated developer focused on mastering **Data Structures and Algorithms
 ---
 
 ### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swayam-khanna/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
 - 📍 **Location:** Solan, Himachal Pradesh
-- 💼 [LinkedIn](https://www.linkedin.com/in/swayam-khanna/)
-- 📧 [Email Me](mailto:swayamkhanna@example.com) > *"Consistency is the key to mastering any skill. I build, I break, I learn."*
+
+> *"Consistency is the key to mastering any skill. I build, I break, I learn."*
