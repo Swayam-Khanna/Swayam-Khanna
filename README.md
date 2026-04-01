@@ -52,7 +52,7 @@ I am a results-driven developer focused on building high-performance web applica
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam-Khanna&layout=compact&theme=radical" alt="Top Langs" />
-  <img src="https://leetcard.jacoblin.cool/Swayam-Khanna?theme=radical&font=Inter" alt="LeetCode Stats" />
+
 </p>
 
 ---
