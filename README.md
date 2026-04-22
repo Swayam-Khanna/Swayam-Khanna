@@ -16,7 +16,7 @@ I am a results-driven developer focused on building high-performance web applica
 - 📐 **System Design**: Scaling backend architectures using **Node.js**, **Docker**, and **AWS**.
 
 ### 🏆 Coding Achievements
-- ☕ **Java DSA Specialist**: Solved **300+ problems** across LeetCode & GFG with a focus on optimal time and space complexity.
+- ☕ **Java DSA Specialist**: Solved **400+ problems** across LeetCode & GFG with a focus on optimal time and space complexity.
 - 💡 **Consistency**: Maintained a **100-day coding streak**, demonstrating disciplined problem-solving and logic building.
 - 🎓 **Leadership**: Former **School Captain**, bringing strong project management and team collaboration skills to development.
 
