@@ -1,3 +1,5 @@
+<p align="center">
+<img width="4128" height="1024" alt="Image" src="https://github.com/user-attachments/assets/7db44e97-acfd-4e86-9a1b-814e40405a44" /></p>
 # Hi, I'm Swayam Khanna 👋 
 
 ### 🚀 B.Tech CSE @ Chitkara University | Full-Stack Developer | Java DSA Specialist
