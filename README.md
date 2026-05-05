@@ -3,7 +3,9 @@
 
 # Hi, I'm Swayam Khanna 👋 
 
-### 🚀 B.Tech CSE @ Chitkara University | Full-Stack Developer | Java DSA Specialist
+### 🚀 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=false&vCenter=true&width=800&lines=B.Tech+CSE+@+Chitkara+University;Full-Stack+Developer;Java+DSA+Specialist" alt="Typing SVG" />
+</div>
 
 I am a results-driven developer focused on building high-performance web applications and mastering complex algorithms. I specialize in the **MERN Stack** and am currently exploring **3D Web Graphics** and **Scalable Cloud Infrastructure**.
 
