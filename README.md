@@ -4,7 +4,7 @@
 # Hi, I'm Swayam Khanna 👋 
 
 ### 🚀<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=false&vCenter=true&width=800&lines=B.Tech+CSE+@+Chitkara+University;Full-Stack+Developer;Java+DSA+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=5000&pause=1000&color=000000&center=false&vCenter=true&width=1000&lines=B.Tech+CSE+@+Chitkara+University+%7C+Full-Stack+Developer+%7C+Java+DSA+Specialist" alt="Typing SVG" />
 </div>
 
 I am a results-driven developer focused on building high-performance web applications and mastering complex algorithms. I specialize in the **MERN Stack** and am currently exploring **3D Web Graphics** and **Scalable Cloud Infrastructure**.
