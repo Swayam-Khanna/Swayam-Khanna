@@ -2,9 +2,9 @@
 <img width="4128" height="1024" alt="Image" src="https://github.com/user-attachments/assets/7db44e97-acfd-4e86-9a1b-814e40405a44" /></p>
 
 # Hi, I'm Swayam Khanna 👋 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=5000&pause=1000&color=000000&center=false&vCenter=true&width=1000&lines=🎓+B.Tech+CSE+@+Chitkara+University+%7C+💻+Full-Stack+Developer+%7C+⚡+Java+DSA+Specialist" alt="Typing SVG" />
-</div>
+### <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=%F0%9F%8E%93+B.Tech+CSE+@+Chitkara+University+%7C+%F0%9F%92%BB+Full-Stack+Developer+%7C+%E2%9A%A1+Java+DSA+Specialist" alt="Typing SVG" />
+</p>
 
 I am a results-driven developer focused on building high-performance web applications and mastering complex algorithms. I specialize in the **MERN Stack** and am currently exploring **3D Web Graphics** and **Scalable Cloud Infrastructure**.
 
