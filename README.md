@@ -60,7 +60,6 @@ I am a results-driven developer focused on building high-performance web applica
 </p>
 </p>
 <br>
-
 ## 📊 GitHub Activity
 
 <table>
@@ -99,7 +98,7 @@ I am a results-driven developer focused on building high-performance web applica
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Swayam-Khanna&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=2EA043&point=FFFFFF"
-  alt="Swayam Khanna GitHub Activity Graph"
+  alt="Swayam Khanna GitHub Activity"
   width="100%"
 />
 
