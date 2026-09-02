@@ -23,40 +23,44 @@ I am a results-driven developer focused on building high-performance web applica
 - 🎓 **Leadership**: Former **School Captain**, bringing strong project management and team collaboration skills to development.
 
 ### 🧰 Tech Stack
-**Frontend & 3D Graphics:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend & Databases:**
+### Languages & Core
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,python,go,bash&perline=7" />
+</p>
 
-**Architecture & System Design:**
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apache&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-6A1B9A?style=for-the-badge&logo=buffer&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+### Frontend & UI
 
-**Cloud, DevOps & Deployment:**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,threejs,tailwind,html,css,sass,vite,redux&perline=9" />
+</p>
 
-**Languages:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
----
+### Backend, Databases & Cloud
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,mysql,postgresql,redis,dynamodb,graphql,firebase,aws&perline=11" />
+</p>
+
+### DevOps, Infrastructure & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,git,github,postman,vercel&perline=8" />
+</p>
+
+### AI & Design Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=claude&perline=1" />
+</p>
+
+<p align="center">
+
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-111827?style=for-the-badge&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge&logoColor=white)
+
+</p>
 ### 📊 GitHub & Coding Impact
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Swayam-Khanna&show_icons=true&theme=radical&count_private=true" alt="Swayam's Stats" />
