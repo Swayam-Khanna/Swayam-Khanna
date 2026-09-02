@@ -27,13 +27,13 @@ I am a results-driven developer focused on building high-performance web applica
 ### Languages & Core
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,python,go,bash&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,bash&perline=7" />
 </p>
 
 ### Frontend & UI
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,threejs,tailwind,html,css,sass,vite,redux&perline=9" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,threejs,tailwind,html,css,vite,redux&perline=9" />
 </p>
 
 ### Backend, Databases & Cloud
@@ -53,9 +53,7 @@ I am a results-driven developer focused on building high-performance web applica
 <p align="center">
   <img src="https://skillicons.dev/icons?i=claude&perline=1" />
 </p>
-
 <p align="center">
-
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-111827?style=for-the-badge&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge&logoColor=white)
