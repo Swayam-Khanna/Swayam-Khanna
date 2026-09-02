@@ -49,15 +49,15 @@ I am a results-driven developer focused on building high-performance web applica
 </p>
 
 ### AI & Design Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=claude&perline=1" />
+
+<img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex">
+
+<img src="https://img.shields.io/badge/OpenClaw-111827?style=for-the-badge&logoColor=white" alt="OpenClaw">
+
+<img src="https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge&logo=lovable&logoColor=white" alt="Lovable">
+
 </p>
-<p align="center">
-![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-111827?style=for-the-badge&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge&logoColor=white)
-
 </p>
 ### 📊 GitHub & Coding Impact
 
