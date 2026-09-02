@@ -59,19 +59,33 @@ I am a results-driven developer focused on building high-performance web applica
 
 </p>
 </p>
-### 📊 GitHub & Coding Impact
+## 📊 GitHub Activity
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### My GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&icon_color=2DD4BF&ring_color=58A6FF" />
+
+</td>
+
+<td width="50%" align="center">
+
+### My Programming Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=10&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&icon_color=2DD4BF" />
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swayam-Khanna&show_icons=true&theme=radical&count_private=true" alt="Swayam's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swayam-Khanna&theme=radical&count_private=true" alt="Swayam's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=161B22&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" />
 </p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam-Khanna&layout=compact&theme=radical&count_private=true" alt="Top Langs" />
-</p>
-
----
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khannaswayam/)
