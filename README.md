@@ -5,9 +5,7 @@
 ### <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=%F0%9F%8E%93+B.Tech+CSE+@+Chitkara+University+%7C+%F0%9F%92%BB+Full-Stack+Developer+%7C+%E2%9A%A1+Java+DSA+Specialist" alt="Typing SVG" />
 </p>
-I’m a results-driven **Full-Stack Developer** who enjoys turning ideas into scalable, production-ready applications. Through freelance development for **Prajna Marketplace** and **Medigo**, I’ve worked on real-world products while strengthening my skills in modern web development and software engineering.
-
-Currently focused on **Next.js, NestJS, System Design, Deployment & Cloud Infrastructure**, while consistently sharpening my **Java + DSA** skills. I’m passionate about building clean, efficient systems and solving complex problems through practical engineering.
+I am a results-driven developer focused on building high-performance web applications and mastering complex algorithms. I specialize in the **Full Stack** and am currently exploring **GEN AI** and **Scalable Cloud Infrastructure**.
 ---
 
 ### 🛠️ Currently Focused On
