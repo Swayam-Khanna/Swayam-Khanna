@@ -59,34 +59,50 @@ I am a results-driven developer focused on building high-performance web applica
 
 </p>
 </p>
+<br>
+
 ## 📊 GitHub Activity
 
 <table>
 <tr>
+
 <td width="50%" align="center">
 
-### My GitHub Statistics
+<h3>My GitHub Statistics</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&icon_color=2DD4BF&ring_color=58A6FF" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
+  alt="GitHub Statistics"
+/>
 
 </td>
 
 <td width="50%" align="center">
 
-### My Programming Languages
+<h3>My Programming Languages</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=10&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&icon_color=2DD4BF" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=10&hide_border=true&theme=github_dark"
+  alt="Programming Languages"
+/>
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=161B22&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" />
-</p>
+<h3>📅 Daily GitHub Activity</h3>
 
+<p align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"
+  alt="GitHub Daily Activity"
+/>
+
+</p>
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khannaswayam/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khannaswayam1@gmail.com)
