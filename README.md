@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=%F0%9F%8E%93+B.Tech+CSE+@+Chitkara+University+%7C+%F0%9F%92%BB+Full-Stack+Developer+%7C+%E2%9A%A1+Java+DSA+Specialist" alt="Typing SVG" />
 </p>
 I am a results-driven developer focused on building high-performance web applications and mastering complex algorithms. I specialize in the **Full Stack** and am currently exploring **GEN AI** and **Scalable Cloud Infrastructure**.
----
+
 
 ### 🛠️ Currently Focused On
 
