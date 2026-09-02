@@ -69,10 +69,12 @@ I am a results-driven developer focused on building high-performance web applica
 
 <h3>My GitHub Statistics</h3>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Swayam-Khanna&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
-  alt="GitHub Statistics"
-/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Swayam-Khanna&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Swayam Khanna GitHub Statistics"
+  />
+</p>
 
 </td>
 
@@ -80,10 +82,12 @@ I am a results-driven developer focused on building high-performance web applica
 
 <h3>My Programming Languages</h3>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam-Khanna&layout=compact&langs_count=10&hide_border=true&theme=github_dark"
-  alt="Programming Languages"
-/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam-Khanna&layout=compact&theme=github_dark&hide_border=true"
+    alt="Swayam Khanna Programming Languages"
+  />
+</p>
 
 </td>
 
@@ -95,16 +99,12 @@ I am a results-driven developer focused on building high-performance web applica
 ### 📅 Daily GitHub Activity
 
 <p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Swayam-Khanna&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=2EA043&point=FFFFFF"
-  alt="Swayam Khanna GitHub Activity"
-  width="100%"
-/>
-
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Swayam-Khanna&theme=github-compact&hide_border=true"
+    alt="Swayam Khanna Daily GitHub Activity"
+    width="100%"
+  />
 </p>
-
-<br>
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khannaswayam/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khannaswayam1@gmail.com)
